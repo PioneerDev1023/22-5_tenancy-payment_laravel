@@ -1,0 +1,6 @@
+/vendor
+/node_modules
+.env
+/public/uploads
+/storage
+storage/framework/views/
